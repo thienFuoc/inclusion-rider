@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "manuka";
+  src: url("../public/font/test-manuka-condensed-regular.ttf");
+}
+
+@font-face {
+  font-family: "metric";
+  src: url("../public/font/test-metric-bold.ttf");
+}
+
+
