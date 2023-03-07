@@ -12,4 +12,8 @@
   src: url("../public/font/test-metric-bold.ttf");
 }
 
-
+@layer components {
+  .clip-path {
+    clip-path: url(#clip-path);
+  }
+}
